@@ -42,3 +42,8 @@ It will teach how to:
 This notebook will show how to:
 * Load a pretrained model (VGG-16)
 * Use it for prediction
+
+---
+### Telecom Customer Churn (Binary Classification)
+This is a binary classification problem to detect Telecom customers who are probably going to churn.
+It uses the following dataset on Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
