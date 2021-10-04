@@ -47,3 +47,8 @@ This notebook will show how to:
 ### Telecom Customer Churn (Binary Classification)
 This is a binary classification problem to detect Telecom customers who are probably going to churn.
 It uses the following dataset on Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
+
+---
+### Structured Data Classification using TensorFlow Decision Forests
+This is an example on how to use TensorFlow Decision Forests on structured data.
+This notebook was created as part of Kaggle's Tabular Playground Series - Sep 2021 (https://www.kaggle.com/c/tabular-playground-series-sep-2021)
