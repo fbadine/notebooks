@@ -1,4 +1,4 @@
-# deep-learning-notebooks
+# Deep Learning Notebooks
 This repository contains a collection of notebooks that I used in tutorials and training.  
 
 ---
