@@ -52,3 +52,7 @@ It uses the following dataset on Kaggle: https://www.kaggle.com/blastchar/telco-
 ### Structured Data Classification using TensorFlow Decision Forests
 This is an example on how to use TensorFlow Decision Forests on structured data.
 This notebook was created as part of Kaggle's Tabular Playground Series - Sep 2021 (https://www.kaggle.com/c/tabular-playground-series-sep-2021)
+
+---
+### UK & Ireland Accent Recognition Using Transfer Learning
+This notebook uses transfer learning feature extraction from Yamnet audio event classsifier in order to train a model to recognise the accent of a UK or Irish speaker.
