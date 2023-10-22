@@ -3,6 +3,11 @@ This repository contains a collection of notebooks that I used in tutorials and 
 The list is ordered from the most recent to the oldest
 
 ---
+### Image Spam Detection Using CNN and Transfer learning
+An Keras 3 implementation of part of the Master's project entitled [Image Spam Classification using Deep Learning](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1634&context=etd_projects).  
+You can run this notebook using either TensorFlow or JAX backend.
+
+---
 ### UK & Ireland Accent Recognition Using Transfer Learning
 This notebook uses transfer learning feature extraction from Yamnet audio event classsifier in order to train a model to recognise the accent of a UK or Irish speaker.
 
